@@ -70,13 +70,13 @@ The Weather Detection System allows users to upload a weather photo, which the m
 5. Open the provided local URL in your browser.
 6. Upload an image and click the detect button to see the predicted weather.
 
-📈 Model Details
+## 📈 Model Details
 The model is a convolutional neural network trained on the multi-class weather dataset to recognize and classify weather conditions from images. It performs image resizing, normalization, and prediction using TensorFlow.
 
-🙌 Contribution
+## 🙌 Contribution
 Feel free to fork this repository and improve the model, add more weather categories, or enhance the web app UI. Contributions and suggestions are welcome!
 
-📫 Contact
+## 📫 Contact
 For questions or feedback, please reach out via glennvargas01@gmail.com
 
 
